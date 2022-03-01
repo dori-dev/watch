@@ -9,7 +9,7 @@ Open `index.html` with your browser!
 #
 ## Links
 
-Demo of Project: [dori-dev.github.io/online-analog-watch](https://dori-dev.github.io/online-analog-watch/)
+Demo of Project: [dori-dev.github.io/watch](https://dori-dev.github.io/watch/)
 
 Download Source Code: [Click Here](https://github.com/dori-dev/online-analog-watch/archive/refs/heads/main.zip)
 
